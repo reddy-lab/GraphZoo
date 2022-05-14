@@ -1,5 +1,5 @@
 # GraphZoo
-> PyTorch version of [GraphZoo](https://github.com/AnoushkaVyas/GraphZoo).
+> PyTorch version of [GraphZoo](https://github.com/reddy-lab/GraphZoo).
 
 > Facilitating learning, using, and designing graph processing pipelines/models systematically.
 
@@ -9,7 +9,7 @@ We present a novel framework GraphZoo, that makes learning, using, and designing
 
 ### Using Github source:
 ```
-git clone https://github.com/AnoushkaVyas/GraphZoo.git
+git clone https://github.com/reddy-lab/GraphZoo.git
 cd GraphZoo
 python setup.py install
 ```
@@ -198,8 +198,7 @@ data = {'adj_train': adj_train, 'features': features, ‘train_edges’: train_e
 
 ## Datasets 
 
-The included datasets are the following and they need to be downloaded from the [link](https://drive.google.com/drive/folders/1wbqwfg_UfbcL49i3_k1ABYRi9hi1Frt1?usp=sharing
-):
+The included datasets are the following and they need to be downloaded from the [link](https://data.world/reddy-lab/graphzoo):
 1. Cora
 2. Pubmed
 3. Disease
@@ -224,7 +223,7 @@ The included datasets are the following and they need to be downloaded from the 
 
 ## Package References
 
-[Tutorials](https://github.com/AnoushkaVyas/GraphZoo/tree/main/tutorials) (jupyter notebooks under development)
+[Tutorials](https://github.com/reddy-lab/GraphZoo/tree/main/tutorials) (jupyter notebooks under development)
 
 Documentation (under develpoment)
 
@@ -264,6 +263,6 @@ series = {WWW '22}
 
 
 ## License
-[MIT](https://opensource.org/licenses/MIT)
+[GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-Copyright (c) 2022 Anoushka Vyas
+Copyright (c) 2022 Dr. Reddy's lab, Department of Computer Science, Virginia Tech
