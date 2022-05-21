@@ -246,7 +246,7 @@ If you use GraphZooZoo in your research, please use the following BibTex entry.
 
 ```
 @inproceedings{10.1145/3487553.3524241,
-author = {Anoushka Vyas, Nurendra Choudhary, Mehrdad Khatir, Chandan K. Reddy},
+author = {Vyas, Anoushka and Choudhary, Nurendra and Khatir, Mehrdad and Reddy, Chandan K.},
 title = {GraphZoo: A Development Toolkit for Graph Neural Networks with Hyperbolic Geometries},
 year = {2022},
 isbn = {9781450391306},
